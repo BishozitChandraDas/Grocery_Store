@@ -9,5 +9,5 @@ A new Flutter project.
  - Add different appbars for the different screen in the bottombar
  - Implement the user screen
  - Create the update address dialog
- - Implement the logout dialog
+ - Implement the logout dialog 
 
